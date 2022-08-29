@@ -10,7 +10,7 @@ import requests
 
 Func = open("index.html","w")
    
-Func.write("""<head>\n <title>testsite</title>\n <meta name="description" content="keys goes here"> \n <meta name="keywords" content="keying"> \n </head>\n <body> <br>64848744<br>54987464<br>testtintest<br> </body>\n </html>""")
+Func.write("""<head>\n <title>testsite</title>\n <meta name="description" content="keys goes here"> \n <meta name="keywords" content="keying"> \n </head>\n <body> <br>64848744<br>54987464<br>does it work?<br> </body>\n </html>""")
               
 Func.close()
 
